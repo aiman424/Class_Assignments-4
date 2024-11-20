@@ -1,7 +1,6 @@
 import React from 'react'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-import image from '../image/ai_gaming_4.jpg'
 
 const About = () => {
   return (
